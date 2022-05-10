@@ -4,8 +4,8 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
-  color: #fff;
+  background-color: whitesmoke;
+  color: rgb(97, 5, 5);
   overflow-x: hidden;
 }
 #root {
@@ -93,7 +93,7 @@ h1 {
 
 .member-page form h5 {
   margin-top: 0;
-  color: #7700ee;
+  color: #222;
 }
 
 .member-page form .card > div {
@@ -116,7 +116,7 @@ h1 {
 
 button {
   cursor: pointer;
-  background-color: #000;
+  background-color: #222;
   color: #fff;
   border: none;
   font-weight: bold;
@@ -128,7 +128,7 @@ button {
 }
 
 button:hover {
-  background-color: #121212;
+  background-color: #222;
 }
 
 button:focus {
