@@ -1,5 +1,7 @@
 # DAO created to test the thirdweb enviroment
 
+https://rektnegados-dao.herokuapp.com/
+
 When you connect your wallet, you will be able to mint an NFT for free.
 
 ![image](https://user-images.githubusercontent.com/51422943/167737535-c908ad2a-dcdc-4251-9194-2a2e85207cd4.png)
